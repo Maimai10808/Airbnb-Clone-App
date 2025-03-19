@@ -140,7 +140,6 @@ This Airbnb Clone project showcases modern iOS development technologies, leverag
 
 ---
 
-这些技术亮点展示了该项目的专业性和完整性，项目采用了 **MVVM 架构**、**SwiftUI 现代化 UI 实现** 和 **复杂的数据模型设计**，是一个很好的 iOS 开发学习参考。欢迎在 GitHub 上查看这个项目，并根据您的需求进行扩展和改进！
 
 
 ## Airbnbクローンプロジェクトの技術的ハイライト
@@ -204,7 +203,6 @@ This Airbnb Clone project showcases modern iOS development technologies, leverag
 
 ---
 
-これらの技術的ハイライトは、プロジェクトの専門性と完成度を示しています。**MVVMアーキテクチャ**、**SwiftUIによるモダンなUI実装**、**複雑なデータモデル設計**を採用したこのプロジェクトは、iOS開発の学習に最適な参考資料です。ぜひGitHubでこのプロジェクトをご覧いただき、ニーズに応じて拡張や改良を行ってください！
 
 
 
