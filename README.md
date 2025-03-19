@@ -5,18 +5,18 @@
 
 ##English 中文 日本語 Deutsch Italiano Français Español Русский 한국어 हिंदी 廣東話 العربية
 
-![Simulator Screenshot - iPhone 16 Pro - 2025-03-19 at 23 03 41](https://github.com/user-attachments/assets/69190f89-2d46-4c5f-ad5d-145312307236)
-![Simulator Screenshot - iPhone 16 Pro - 2025-03-19 at 23 03 32](https://github.com/user-attachments/assets/44d398e2-d859-4102-8152-8d96fd17fe83)
-![Simulator Screenshot - iPhone 16 Pro - 2025-03-19 at 23 01 23](https://github.com/user-attachments/assets/3ae4a77c-48a6-4386-941d-f37fdfb62afb)
-![Simulator Screenshot - iPhone 16 Pro - 2025-03-19 at 23 01 04](https://github.com/user-attachments/assets/49c38d60-52c7-4b49-8af4-57427c04b19d)
-![Simulator Screenshot - iPhone 16 Pro - 2025-03-19 at 23 00 59](https://github.com/user-attachments/assets/8f498d0f-57e7-44ca-9e05-b559e36febbc)
-![Simulator Screenshot - iPhone 16 Pro - 2025-03-19 at 23 00 41](https://github.com/user-attachments/assets/508b3f3e-89d9-410b-8884-192a5fc6a180)
-![Simulator Screenshot - iPhone 16 Pro - 2025-03-19 at 23 00 31](https://github.com/user-attachments/assets/9713885f-7f99-4fb3-a2ad-d3a4db1a3dc7)
-![Simulator Screenshot - iPhone 16 Pro - 2025-03-19 at 23 00 29](https://github.com/user-attachments/assets/4a5351f6-3d27-4de0-b74c-93f48a0fe881)
-![Simulator Screenshot - iPhone 16 Pro - 2025-03-19 at 23 00 23](https://github.com/user-attachments/assets/1b4bcc33-4313-4470-b41c-514de2b798ad)
-![Simulator Screenshot - iPhone 16 Pro - 2025-03-19 at 23 00 05](https://github.com/user-attachments/assets/6a33183c-d982-477d-bb2b-1a495867b54a)
-![Simulator Screenshot - iPhone 16 Pro - 2025-03-19 at 22 59 59](https://github.com/user-attachments/assets/afab6df0-332f-4341-ad7a-3c966ddf8b96)
-![Simulator Screenshot - iPhone 16 Pro - 2025-03-13 at 22 43 23](https://github.com/user-attachments/assets/0f3b0c59-46c4-4763-a311-ca01431743d8)
+<img src="https://github.com/user-attachments/assets/69190f89-2d46-4c5f-ad5d-145312307236" width="300" height="auto">
+<img src="https://github.com/user-attachments/assets/44d398e2-d859-4102-8152-8d96fd17fe83" width="300" height="auto">
+<img src="https://github.com/user-attachments/assets/3ae4a77c-48a6-4386-941d-f37fdfb62afb" width="300" height="auto">
+<img src="https://github.com/user-attachments/assets/49c38d60-52c7-4b49-8af4-57427c04b19d" width="300" height="auto">
+<img src="https://github.com/user-attachments/assets/8f498d0f-57e7-44ca-9e05-b559e36febbc" width="300" height="auto">
+<img src="https://github.com/user-attachments/assets/508b3f3e-89d9-410b-8884-192a5fc6a180" width="300" height="auto">
+<img src="https://github.com/user-attachments/assets/9713885f-7f99-4fb3-a2ad-d3a4db1a3dc7" width="300" height="auto">
+<img src="https://github.com/user-attachments/assets/4a5351f6-3d27-4de0-b74c-93f48a0fe881" width="300" height="auto">
+<img src="https://github.com/user-attachments/assets/1b4bcc33-4313-4470-b41c-514de2b798ad" width="300" height="auto">
+<img src="https://github.com/user-attachments/assets/6a33183c-d982-477d-bb2b-1a495867b54a" width="300" height="auto">
+<img src="https://github.com/user-attachments/assets/afab6df0-332f-4341-ad7a-3c966ddf8b96" width="300" height="auto">
+<img src="https://github.com/user-attachments/assets/0f3b0c59-46c4-4763-a311-ca01431743d8" width="300" height="auto">
 
 
 
